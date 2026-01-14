@@ -20,8 +20,18 @@ This is a **UI-focused clone**, not a functional e-commerce application.
 
 ---
 
-## 🚀 Demo
-🔗 [Live Demo](https://shreyaawari28.github.io/E-Commerce-UI-Clone-Demo/)
+## 🚀 Live Demo
+🔗 [View Live Demo](https://shreyaawari28.github.io/E-Commerce-UI-Clone-Demo/)
+
+---
+
+## 📸 Outputs
+
+![Output](output1.png)
+
+![Output](output2.png)
+
+![Output](output3.png)
 
 ---
 
@@ -42,31 +52,27 @@ This is a **UI-focused clone**, not a functional e-commerce application.
 ---
 
 ## 🧪 How It Works
-The UI is divided into structured sections:
+- **Header & Navbar**: Flexbox-based horizontal alignment  
+- **Panel Section**: Secondary navigation menu  
+- **Hero Section**: Full-width background with overlay text  
+- **Shop Section**: Card-based layout using Flexbox and `flex-wrap`  
+- **Footer**: Multi-layer structure with links and branding  
 
-- **Header & Navbar**: Uses Flexbox to align navigation elements horizontally.
-- **Panel Section**: Secondary menu bar for quick navigation links.
-- **Hero Section**: Full-width background image with a centered message overlay.
-- **Shop Section**: Product categories displayed as cards using Flexbox and `flex-wrap`.
-- **Footer**: Built in multiple layers, including navigation links, branding, and legal information.
-
-All layout behavior, styling, and positioning are handled entirely using CSS.
+All layout and styling are handled entirely using CSS.
 
 ---
 
 ## ⚠️ Limitations
 - No JavaScript functionality  
 - Search bar, links, and buttons are non-functional  
-- Layout is not fully responsive for smaller devices  
-- Static UI clone created purely for learning and practice  
-
-These limitations are intentional.
+- Not fully responsive on small devices  
+- Static UI built strictly for practice  
 
 ---
 
 ## ⚠️ Disclaimer
 This project is created **strictly for educational purposes**.  
-It is a **fictional e-commerce UI** and is **not affiliated with, endorsed by, or associated with any real brand or company**.
+It is **not affiliated with any real brand or company**.
 
 ---
 
@@ -74,4 +80,3 @@ It is a **fictional e-commerce UI** and is **not affiliated with, endorsed by, o
 **Shreya Awari**  
 📧 Email: shreyaawari31@gmail.com  
 🌐 GitHub: https://github.com/shreyaawari28
-
